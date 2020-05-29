@@ -1,0 +1,20 @@
+﻿  hello_window.cpp
+c:\users\starmin114\desktop\논병아리\utils\arcball.h(82): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+c:\users\starmin114\desktop\논병아리\inclass01_2018193020\01_hellowindow\hello_window.cpp(25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\starmin114\desktop\논병아리\inclass01_2018193020\01_hellowindow\hello_window.cpp(81): warning C4244: '인수': 'double'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=float
+          ]
+c:\users\starmin114\desktop\논병아리\inclass01_2018193020\01_hellowindow\hello_window.cpp(86): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\starmin114\desktop\논병아리\inclass01_2018193020\01_hellowindow\hello_window.cpp(89): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\starmin114\desktop\논병아리\inclass01_2018193020\01_hellowindow\hello_window.cpp(91): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\starmin114\desktop\논병아리\inclass01_2018193020\01_hellowindow\hello_window.cpp(94): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\starmin114\desktop\논병아리\inclass01_2018193020\01_hellowindow\hello_window.cpp(256): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\starmin114\desktop\논병아리\inclass01_2018193020\01_hellowindow\hello_window.cpp(257): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  01_HelloWindow.vcxproj -> C:\Users\starmin114\Desktop\논병아리\InClass01_2018193020\Debug\01_HelloWindow.exe

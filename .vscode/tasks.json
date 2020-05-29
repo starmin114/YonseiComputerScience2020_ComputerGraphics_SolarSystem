@@ -1,0 +1,24 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "g++.exe build active file",
+            "command": "C:/MinGW/bin/g++.exe",
+            "args": [
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-lglut32win",
+                "-lglew32",
+                "-lglfw3dll",
+                "-lopengl32"
+                
+            ],
+            "options": {
+                "cwd": "C:/MinGW/bin"
+            }
+        }
+    ],
+    "version": "2.0.0"
+}
